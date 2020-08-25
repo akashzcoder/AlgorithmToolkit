@@ -1,4 +1,4 @@
-# AlgorithmToolkit
+# Algorithmic Toolbox
 
 Coursera Link: https://www.coursera.org/learn/algorithmic-toolbox/home/welcome
 
